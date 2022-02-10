@@ -14,4 +14,6 @@ To reproduce these analysis, models and predictions, follow the Jupyter Notebook
 
 [SWAN-SF](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBCFKM)
 
+[pandas](https://pandas.pydata.org/)
+
 [scikit-learn](https://scikit-learn.org/stable/)
